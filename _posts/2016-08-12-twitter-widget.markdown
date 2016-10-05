@@ -8,7 +8,7 @@ permalink: twitter-widget
 
 *Criado por Asta Bevainyte, [@astux7](https://twitter.com/astux7)*
 
-*Traduzido por Vilmar Neto, [@Dkmister](https://github.com/Dkmister)
+*Traduzido por Vilmar Neto, [@Dkmister](https://github.com/Dkmister)*
 
 Esta prática se destina a ensinar como usar o widget do Twitter e como para [http://localhost:3000/pages/info](http://localhost:3000/pages/info)
 
