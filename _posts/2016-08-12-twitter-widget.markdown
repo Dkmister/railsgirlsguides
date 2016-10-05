@@ -19,7 +19,7 @@ Há duas maneiras de fazer isto, se você quiser fazer rápido para já ir adici
 
 1. Configuração do widget do Twitter 
 
-+ Logue-se em [Twitter](https://twitter.com/)
++ Logue-se no [Twitter](https://twitter.com/)
 
 + Vá para [https://publish.twitter.com/#](https://publish.twitter.com/#) 
 
