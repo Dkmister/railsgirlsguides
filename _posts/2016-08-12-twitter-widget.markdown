@@ -43,4 +43,3 @@ Há duas maneiras de fazer isto, se você quiser fazer rápido para já ir adici
  + Salve e execute ```rails server```
 
  + Abra seu browser e vá para [http://localhost:3000/pages/info](http://localhost:3000/pages/info) e cheque seu perfil no Twitter 
-  
